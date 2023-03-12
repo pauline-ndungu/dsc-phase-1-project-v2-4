@@ -1,5 +1,5 @@
 ## Movie Industry: Exploratory Data Analysis
-
+![My Image](Images/Background%20image.jpg)
 ## Project Description
 This project involves  analyzing box office data in an attempt to understand what types of movies are currently popular and successful. This information can be used to make informed decisions about the types of movies to produce and establish themselves as successful players in the movie industry. The first portion involves importing and cleaning the data, and although not all tables will be used, I preliminarily decided to go through and clean all of them. Once the data is cleaned, there are a few questions that I gleaned from the data followed by my recommendations.
 
